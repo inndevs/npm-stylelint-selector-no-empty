@@ -15,7 +15,7 @@
     },
     "license": "MIT",
     "peerDependencies": {
-        "stylelint": "^14.9.1 || >= 15.x"
+        "stylelint": ">= 14.9.1 || >= 15.x"
     },
     "homepage": "https://github.com/inndevs/npm-stylelint-selector-no-empty#readme",
     "repository": {
